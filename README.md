@@ -1,2 +1,2 @@
-# coding
+# Coding
 Repository for coding projects
