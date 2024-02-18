@@ -21,11 +21,6 @@ spec:
             cpu: "500m"
         ports:
         - containerPort: 80
-        securityContext:
-         runAsUser: 10000
-         runAsGroup: 3000 
-         readOnlyRootFilesystem: true 
-         allowPrivilegeEscalation: false
 
 
 
